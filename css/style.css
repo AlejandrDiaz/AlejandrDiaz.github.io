@@ -46,8 +46,8 @@ p {
 }
 
 .icon-block {
-  padding: 0 15px;
-  margin-top: -15px;
+  padding: 0 5px;
+  margin-top: -5px;
 }
 .icon-block .material-icons {
   font-size: inherit;
